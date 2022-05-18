@@ -1,0 +1,22 @@
+Basic Understanding:
+https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
+https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/
+
+Step-by-step:
+https://www.instructables.com/Understanding-how-ECDSA-protects-your-data/
+
+Mathematical Computations:
+https://en.wikipedia.org/wiki/Modular_multiplicative_inverse
+https://crypto.stanford.edu/pbc/notes/numbertheory/order.html
+https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/
+https://en.wikipedia.org/wiki/Fermat's_little_theorem
+
+NIST Guidelines and Implementation:
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175Br1.pdf
+https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-5-draft.pdf (page 29)
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186-draft.pdf (page 21)
+
+
+
+Tangent:
+https://blog.cloudflare.com/staying-on-top-of-tls-attacks/
